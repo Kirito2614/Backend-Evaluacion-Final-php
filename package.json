@@ -1,0 +1,28 @@
+{
+  "name": "buscadorpropiedades",
+  "version": "1.0.0",
+  "description": "Buscador de propiedades",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirito2614/Backend-Evaluacion-Final-php.git"
+  },
+  "keywords": [
+    "buscador"
+  ],
+  "author": "1nfZ3r0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirito2614/Backend-Evaluacion-Final-php/issues"
+  },
+  "homepage": "https://github.com/Kirito2614/Backend-Evaluacion-Final-php#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "underscore": "^1.8.3"
+  }
+}
